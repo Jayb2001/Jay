@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jordan
+- 👀 I’m interested in Web & App Development
+- 🌱 I’m currently learning HTML,CSS,JavaScript,etc
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me @Jaycode_s on twitter and Instagram
